@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.myownrecipebook.config.ApplicationProperties",
+      "sourceType": "com.myownrecipebook.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
